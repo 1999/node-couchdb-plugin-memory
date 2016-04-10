@@ -22,7 +22,9 @@
   "devDependencies": {
     "babel-cli": "^6.7.5",
     "babel-plugin-add-module-exports": "^0.1.2",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4"
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4",
+    "babel-register": "^6.7.2",
+    "mocha": "^2.4.5"
   },
   "license": "MIT",
   "engines": {
