@@ -17,7 +17,7 @@ describe('node-couchdb-plugin: memory', () => {
         assert(cache.invalidate() instanceof Promise, 'invalidate result is not a promise');
     });
 
-    it('should should use async get operation', () => {
+    it('should use async get operation', () => {
         const cache = new Cache;
         let counter = 0;
 
@@ -29,7 +29,7 @@ describe('node-couchdb-plugin: memory', () => {
         return getPromise;
     });
 
-    it('should should use async set operation', () => {
+    it('should use async set operation', () => {
         const cache = new Cache;
         let counter = 0;
 
