@@ -24,7 +24,7 @@
     "babel-plugin-add-module-exports": "^1.0.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4",
     "babel-register": "^6.7.2",
-    "mocha": "^5.0.0"
+    "mocha": "^6.1.4"
   },
   "license": "MIT",
   "engines": {
